@@ -1,2 +1,2 @@
-# gerenciador
-Trabalho técnico de informatica Web3, gerenciador de vendas, clientes, vendedores e filias, serve principalmente para acompanhar metas. 
+# projetoweb3_09_n
+Projeto para a disciplina de Web III do curso técnico de informática da escola QI.
